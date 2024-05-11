@@ -1,0 +1,108 @@
+{
+  "app": {
+    "status": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://sites.google.com/view/single-ebook-privacy-policy",
+    "pdf_url": "https://raw.githubusercontent.com/melegod/content-upload-pdf/main/IPA-BS-KLS-9.pdf",
+    "description": "<p>Android Developer Fundamentals is a training course created by the Google Developer Training team. You learn basic Android programming concepts and build a variety of apps, starting with Hello World and working your way up to apps that use content providers and loaders.</p>",
+    "allow_save_book_in_storage": true,
+    "swipe_horizontal_reading_book": true,
+    "show_scroll_handle_reading_book": true,
+    "custom_table_of_contents": true
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "alien_ads",
+    "admob_banner_id": "ca-app-pub-3940256099942544/92145897411",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/10331737121",
+    "admob_native_id": "ca-app-pub-3940256099942544/22476961101",
+    "admob_app_open_id": "ca-app-pub-3940256099942544/92573959211",
+    "ad_manager_banner_id": "/6499/example/banner",
+    "ad_manager_interstitial_id": "/6499/example/interstitial",
+    "ad_manager_native_id": "/6499/example/native",
+    "ad_manager_app_open_id": "/6499/example/app-open",
+    "alien_ads_banner_id": "testing",
+    "alien_ads_interstitial_id": "testing",
+    "alien_ads_native_id": "testing",
+    "fan_banner_id": "YOUR_PLACEMENT_ID",
+    "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+    "fan_native_id": "YOUR_PLACEMENT_ID",
+    "startapp_app_id": "0",
+    "unity_game_id": "4089993",
+    "unity_banner_id": "banner",
+    "unity_interstitial_id": "video",
+    "applovin_max_banner_id": "0",
+    "applovin_max_interstitial_id": "0",
+    "applovin_max_native_id": "0",
+    "applovin_max_app_open_id": "0",
+    "applovin_discovery_banner_zone_id": "0",
+    "applovin_discovery_interstitial_zone_id": "0",
+    "ironsource_app_key": "85460dcd",
+    "ironsource_banner_id": "DefaultBanner",
+    "ironsource_interstitial_id": "DefaultInterstitial",
+    "wortise_app_id": "test-app-id",
+    "wortise_banner_id": "test-banner",
+    "wortise_interstitial_id": "test-interstitial",
+    "wortise_native_id": "test-native",
+    "wortise_app_open_id": "test-app-open",
+    "interstitial_ad_interval": 3
+  },
+  "table_of_contents": [
+    {
+      "page_title": "Daftar Isi",
+      "page_number": 5
+    },
+    {
+      "page_title": "Pengantar",
+      "page_number": 3
+    },
+	{
+      "page_title": "Daftar Pengguan Buku",
+      "page_number": 12
+    },
+    {
+      "page_title": "Bab 1 Pertumbuhan dan Perkembangan",
+      "page_number": 15
+    },
+    {
+      "page_title": "Bab 2 Sistem Koordinasi, Reproduksi dan Homeostasis Manusia",
+      "page_number": 37
+    },
+    {
+      "page_title": "Bab 3 Tekanan",
+      "page_number": 65
+    },
+    {
+      "page_title": "Bab 4 Listrik, Magnet, dan Sumber Energi Alternatif",
+      "page_number": 85
+    },
+    {
+      "page_title": "Bab 5 Reaksi-Reaksi Kimia dan Dinamikanya",
+      "page_number": 121
+    },
+    {
+      "page_title": "Bab 6 Pewarisan Sifat dan Bioteknologi",
+      "page_number": 155
+    },
+    {
+      "page_title": "Bab 7 Isu-Isu Lingkungan",
+      "page_number": 173
+    },
+    {
+      "page_title": "Daftar Pustaka",
+      "page_number": 198
+    },
+    {
+      "page_title": "Glosarium",
+      "page_number": 196
+    },
+    {
+      "page_title": "Biodata Pelaku Perbukuan",
+      "page_number": 206
+    }
+  ],
+  "more_apps": [
+    
+  ]
+}
