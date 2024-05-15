@@ -50,56 +50,52 @@
   },
   "table_of_contents": [
     {
+      "page_title": "Kata Pengantar",
+      "page_number": 3
+    },
+    {
       "page_title": "Daftar Isi",
       "page_number": 5
     },
-    {
-      "page_title": "Pengantar",
-      "page_number": 3
-    },
 	{
-      "page_title": "Daftar Pengguan Buku",
-      "page_number": 12
+      "page_title": "Pengembangan Literasi",
+      "page_number": 7
     },
     {
-      "page_title": "Bab 1 Pertumbuhan dan Perkembangan",
+      "page_title": "Bab 1 Melaporkan Percoabaan",
       "page_number": 15
     },
     {
-      "page_title": "Bab 2 Sistem Koordinasi, Reproduksi dan Homeostasis Manusia",
-      "page_number": 37
+      "page_title": "Bab 2 Menyampaikan Pidato Persuasif",
+      "page_number": 39
     },
     {
-      "page_title": "Bab 3 Tekanan",
-      "page_number": 65
+      "page_title": "Bab 3 Menyusun Cerita Pendek",
+      "page_number": 57
     },
     {
-      "page_title": "Bab 4 Listrik, Magnet, dan Sumber Energi Alternatif",
+      "page_title": "Bab 4 Memberi Tanggapan dengan Santun",
       "page_number": 85
     },
     {
-      "page_title": "Bab 5 Reaksi-Reaksi Kimia dan Dinamikanya",
+      "page_title": "Bab 5 Menyajikan Teks Diskusi",
       "page_number": 121
     },
     {
-      "page_title": "Bab 6 Pewarisan Sifat dan Bioteknologi",
-      "page_number": 155
+      "page_title": "Bab 6 Menyusun Cerita Inspiratif",
+      "page_number": 153
     },
-    {
-      "page_title": "Bab 7 Isu-Isu Lingkungan",
-      "page_number": 173
-    },
-    {
+   {
       "page_title": "Daftar Pustaka",
-      "page_number": 198
+      "page_number": 165
     },
     {
       "page_title": "Glosarium",
-      "page_number": 196
+      "page_number": 168
     },
     {
       "page_title": "Biodata Pelaku Perbukuan",
-      "page_number": 206
+      "page_number": 175
     }
   ],
   "more_apps": [
