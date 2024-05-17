@@ -1,0 +1,112 @@
+{
+  "app": {
+    "status": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://sites.google.com/view/single-ebook-privacy-policy",
+    "pdf_url": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/k13/bukusiswa/Kelas%20X%20Bahasa%20Indonesia%20BS%20press.pdf",
+    "description": "<p>Buku teks pelajaran Bahasa Indonesia ditulis dengan tujuan agar siswa memiliki kompetensi berbahasa Indonesia untuk berbagai keperluan sebagai kegiatan sosial</p>",
+    "allow_save_book_in_storage": true,
+    "swipe_horizontal_reading_book": true,
+    "show_scroll_handle_reading_book": true,
+    "custom_table_of_contents": true
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "alien_ads",
+    "admob_banner_id": "ca-app-pub-3940256099942544/92145897411",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/10331737121",
+    "admob_native_id": "ca-app-pub-3940256099942544/22476961101",
+    "admob_app_open_id": "ca-app-pub-3940256099942544/92573959211",
+    "ad_manager_banner_id": "/6499/example/banner",
+    "ad_manager_interstitial_id": "/6499/example/interstitial",
+    "ad_manager_native_id": "/6499/example/native",
+    "ad_manager_app_open_id": "/6499/example/app-open",
+    "alien_ads_banner_id": "testing",
+    "alien_ads_interstitial_id": "testing",
+    "alien_ads_native_id": "testing",
+    "fan_banner_id": "YOUR_PLACEMENT_ID",
+    "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+    "fan_native_id": "YOUR_PLACEMENT_ID",
+    "startapp_app_id": "0",
+    "unity_game_id": "4089993",
+    "unity_banner_id": "banner",
+    "unity_interstitial_id": "video",
+    "applovin_max_banner_id": "0",
+    "applovin_max_interstitial_id": "0",
+    "applovin_max_native_id": "0",
+    "applovin_max_app_open_id": "0",
+    "applovin_discovery_banner_zone_id": "0",
+    "applovin_discovery_interstitial_zone_id": "0",
+    "ironsource_app_key": "85460dcd",
+    "ironsource_banner_id": "DefaultBanner",
+    "ironsource_interstitial_id": "DefaultInterstitial",
+    "wortise_app_id": "test-app-id",
+    "wortise_banner_id": "test-banner",
+    "wortise_interstitial_id": "test-interstitial",
+    "wortise_native_id": "test-native",
+    "wortise_app_open_id": "test-app-open",
+    "interstitial_ad_interval": 3
+  },
+  "table_of_contents": [
+    {
+      "page_title": "Kata Pengantar",
+      "page_number": 3
+    },
+    {
+      "page_title": "Daftar Isir",
+      "page_number": 5
+    },
+	{
+      "page_title": "Pengembangan Literasi",
+      "page_number": 7
+    },
+    {
+      "page_title": "Bab I Menyusun Laporan Hasil Observasi",
+      "page_number": 13
+    },
+    {
+      "page_title": "Bab II Mengembangkan Pendapat dalam Eksposisi",
+      "page_number": 57
+    },
+    {
+      "page_title": "Bab III Menyampaikan Ide Melalui Anekdot",
+      "page_number": 85
+    },
+    {
+      "page_title": "Bab IV Melestarikan Nilai Kearifan Lokal Melalui Cerita Rakyat ",
+      "page_number": 111
+    },
+    {
+      "page_title": "Bab V Membuat Kesepakatan Melalui Negosiasi",
+      "page_number": 155
+    },
+    {
+      "page_title": "Bab VI Berdebat dengan Indah",
+      "page_number": 179
+    },
+    {
+      "page_title": "Bab VII Belajar Dari Biograi ",
+      "page_number": 213
+    },
+	
+      "page_title": "Bab VIII Mendalami Puisi",
+      "page_number": 247
+    },
+    {
+      "page_title": "Glosarium",
+      "page_number": 278
+    },
+    {
+      "page_title": "Daftar Pustaka",
+      "page_number": 283
+    },
+    {
+      "page_title": "Biodata Pelaku Perbukuan",
+      "page_number": 287
+    }
+  ],
+  "more_apps": [
+    
+  ]
+}
